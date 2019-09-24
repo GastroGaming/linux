@@ -900,6 +900,8 @@ notity||notify
 numebr||number
 numner||number
 obtaion||obtain
+ovous||obvious
+ovoius||obvious
 obusing||abusing
 occassionally||occasionally
 occationally||occasionally
@@ -1347,6 +1349,7 @@ trigerring||triggering
 trun||turn
 tunning||tuning
 ture||true
+twelth||twelfth
 tyep||type
 udpate||update
 uesd||used
@@ -1397,6 +1400,7 @@ upsupported||unsupported
 usefule||useful
 usefull||useful
 usege||usage
+usible||useable
 usera||users
 usualy||usually
 usupported||unsupported
